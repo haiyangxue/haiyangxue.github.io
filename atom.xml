@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>haiyang</title>
-  <subtitle>世界如此喧嚣</subtitle>
+  <title>大功告成，记录一下，哈哈😝</title>
+  <subtitle>程序猿成长日记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.qinglinyi.com/"/>
+  <link href="http://haiyangxue.github.io/"/>
   <updated>2016-09-25T11:33:24.000Z</updated>
-  <id>http://www.qinglinyi.com/</id>
+  <id>http://haiyangxue.github.io/</id>
   
   <author>
     <name>haiyang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.qinglinyi.com/posts/hello-world/"/>
-    <id>http://www.qinglinyi.com/posts/hello-world/</id>
+    <link href="http://haiyangxue.github.io/posts/hello-world/"/>
+    <id>http://haiyangxue.github.io/posts/hello-world/</id>
     <published>2016-09-25T11:33:24.000Z</published>
     <updated>2016-09-25T11:33:24.000Z</updated>
     
